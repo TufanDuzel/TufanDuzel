@@ -1,5 +1,1 @@
-✦ Computer Engineering student at International Balkan University in North Macedonia.
-✦ I worked on workshops with Java, SQL, HTML-CSS, and C++ languages.
-✦ Currently working on cyber-security topic.
-✦ As a social media expert and designer, I also manage professional Instagram profiles.
-✦ B2 level English.
+I'm a Computer Engineering student at International Balkan University in North Macedonia, with hands-on experience in Java, C++, SQL, Python, and HTML-CSS through various workshops and some projects. Currently, I’m focusing on cyber-security and expanding my skills in protecting digital systems. In addition to my technical background, I manage professional Instagram profiles as a social media expert and designer, combining creativity with strategic thinking. I'm always eager to learn and take on new challenges in both the tech and other fields.
